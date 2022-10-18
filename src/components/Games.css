@@ -1,0 +1,41 @@
+.games{
+    position: relative;
+}
+
+.games>.section-title{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+}
+
+
+.arrows{
+    position: absolute;
+    top: 18%;
+    right: 6%;
+    cursor: pointer;
+}
+
+.arrows>img{
+    margin: 0 1rem;
+}
+
+.cards{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    margin-bottom: 5rem;
+}
+
+.card{
+    height: 26rem;
+    width: 19rem;
+    margin:0 1rem;
+}
+
+.card>p{
+    position: absolute;
+    bottom:0%;
+    margin-left: .2rem;
+    font-weight: 500;
+}

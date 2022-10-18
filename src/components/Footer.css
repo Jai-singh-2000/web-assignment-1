@@ -1,0 +1,95 @@
+.footer{
+    color: white;
+    background: #121212;
+    height: 28rem;
+}
+
+.foot-inside{
+    height: 100%;
+    width: 80%;
+}
+
+.foot-up{
+    height: 80%;
+    display: flex;
+}
+
+.f-one{
+    width: 30%;
+}
+
+.cover{
+    height: 80%;
+    width: 80%;
+}
+
+.cover>p{
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 28px;
+    text-transform: capitalize;
+    
+}
+
+.cover>h3{
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    padding-bottom: 1rem;
+}
+
+input{
+    width: 100%;
+    height: 20%;
+    margin: 1rem 0;
+}
+
+.social{
+    padding: 1rem 0;
+}
+
+.social>img{
+    margin: 0 .4rem;
+}
+
+.f-two{
+    width: 15%;
+}
+
+.f-three{
+    width: 15%;
+}
+
+.f-four{
+    width: 20%;
+}
+
+.f-five{
+    width: 20%;
+}
+
+
+.f-links>p{
+    padding: 4px 0;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 26px;
+}
+
+.f-links>p>img{
+    padding:0 .5rem;
+}
+
+.more>p{
+    padding: .6rem 0;
+}
+
+.foot-down{
+    color: white;
+    height: 20%;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    padding-left: 2rem;
+}
+

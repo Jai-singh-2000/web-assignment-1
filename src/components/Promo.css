@@ -1,0 +1,11 @@
+.promo-div{
+    background-color: #121212;
+    color: white;
+    height: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 400;
+    font-size: 14px;
+}
+

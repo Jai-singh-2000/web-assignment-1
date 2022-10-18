@@ -1,0 +1,93 @@
+.looks{
+    padding-bottom: 2rem;
+}
+
+.looks>.section-title{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+}
+
+.product-container{
+    display: flex;
+    justify-content: center;
+}
+
+.product{
+    background-color: white;
+    height: 30rem;
+    width: 19rem;
+    margin: 0 1rem;
+    position: relative;
+}
+
+.product-image{
+position: relative;
+}
+
+.product-heading{
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.product-price{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 26px;
+    color: #F75243;
+}
+
+#small{
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 22px; 
+    color:grey; 
+}
+
+.offers{
+    position: absolute;
+    top: 2%;
+    left: 4%;
+}
+
+.newTag{    
+    border-radius: 2px;
+    padding: 3px .8rem ;
+    color: white;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 16px;
+    background: linear-gradient(95.65deg, #3A7BD5 9.92%, rgba(0, 210, 255, 0.4) 160.86%);
+}
+
+
+.discountTag{ 
+    margin-top: .5rem;
+    border-radius: 2px;
+    padding: 3px .8rem ;
+    color: white;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 16px;
+    background: linear-gradient(94.41deg, #FA6C58 8.77%, #FA9158 99.95%, #FA9258 99.96%, #FA9258 99.97%, rgba(250, 108, 88, 0) 99.98%, #FA6C58 99.99%);
+}
+
+.addCart{
+    background: #121212;
+    position: absolute;
+    bottom: 0%;
+    padding: .4rem 0;
+    width: 100%;
+    text-align: center;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+
+
+
+
+
